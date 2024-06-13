@@ -43,9 +43,8 @@ Descrição breve do projeto. Fale sobre o que ele faz e quais tecnologias foram
 
 ## Contato
 
-- Email: .[Anthony Luiz](https://anthonyluizmm03@gmail.com?subject=&body=)
-- LinkedIn: [seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- Email: anthonyluizmm03@gmail.com
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-username)
+Feito com ❤️ por [meu github](https://github.com/Anthonylmm)
