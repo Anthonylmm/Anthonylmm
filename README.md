@@ -47,4 +47,4 @@ Descrição breve do projeto. Fale sobre o que ele faz e quais tecnologias foram
 
 ---
 
-Feito com ❤️ por [meu github](https://github.com/Anthonylmm)
+Feito com ❤️ por [Anthony Luiz](https://github.com/Anthonylmm)
