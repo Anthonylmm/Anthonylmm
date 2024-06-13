@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Anthony Luiz 👋
 
 Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação.
 
@@ -43,9 +43,8 @@ Descrição breve do projeto. Fale sobre o que ele faz e quais tecnologias foram
 
 ## Contato
 
-- Email: [seu email]
+- Email: .[Anthony Luiz](https://anthonyluizmm03@gmail.com?subject=&body=)
 - LinkedIn: [seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- Twitter: [seu Twitter](https://twitter.com/seu-perfil)
 
 ---
 
